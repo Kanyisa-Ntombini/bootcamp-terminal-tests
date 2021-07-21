@@ -1,7 +1,6 @@
 'use strict';
 
 let assert = require('assert');
-const { count } = require('console');
 let countRegNumber = require('../modules/countRegNumber');
 
 describe('The countRegNumber function should ', () => {
