@@ -2,7 +2,7 @@
   "name": "bootcamp-terminal-tests",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "test",
   "directories": {
     "test": "test"
   },
