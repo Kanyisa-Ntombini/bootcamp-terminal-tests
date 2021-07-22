@@ -1,0 +1,1 @@
+[![Build Status](https://www.travis-ci.com/Kanyisa-Ntombini/bootcamp-terminal-tests.svg?branch=gh-pages)](https://www.travis-ci.com/Kanyisa-Ntombini/bootcamp-terminal-tests)
